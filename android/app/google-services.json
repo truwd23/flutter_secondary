@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062261313422",
+    "project_id": "coba-pertama-d2a74",
+    "storage_bucket": "coba-pertama-d2a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062261313422:android:7da6bce63b5352a0305edf",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRO-rTmup4eP76D4SAnqPPO1WKM0WXqCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
